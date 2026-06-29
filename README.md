@@ -9,5 +9,6 @@ alias claude="$HOME/.claude/claude-matrix"
 in Users/USERNAME/.zshrc <br/>
 _replace USERNAME with your username_
 
+![demo_dark_theme](demo-dark.gif) <br/>
+
 ![demo_light_theme](demo-light.gif)
-![demo_dark_theme]()
