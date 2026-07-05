@@ -1,7 +1,7 @@
 # Matrix Code Waterfall
 ## Claude Code Startup Animation
 Starts a matrix code waterfall animation when stating up claude code <br/> <br/>
-Put:
+Place:
 ```
 # Matrix rain launcher for Claude Code
 alias claude="$HOME/.claude/claude-matrix"
